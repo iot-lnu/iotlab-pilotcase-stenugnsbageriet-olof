@@ -3,7 +3,7 @@ Vi bakar surdegsbröd, bullar och kakor med smör, kärlek och öländskt lantve
 
 ## Kylutrymmen
 
-Målet är att ålla koll på temperatur i kylutrymmen. Få reda på om dörren till kylutrymmet är öppet. Syftet är att veta om kylen är trasig eller har lämnats öppen och förhindra att matvaror blir dåliga. 
+Målet är att hålla koll på temperatur i kylutrymmen. Få reda på om dörren till kylutrymmet är öppet. Syftet är att veta om kylen är trasig eller har lämnats öppen och förhindra att matvaror blir dåliga. 
 
 ## Förslag på Temperatursensorer
 
