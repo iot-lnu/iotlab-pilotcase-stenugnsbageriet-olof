@@ -21,6 +21,17 @@ Målet är att hålla koll på temperatur i kylutrymmen. Få reda på om dörren
 |[LDS02](https://www.digikey.se/sv/products/detail/seeed-technology-co.,-ltd/101990921/16128317?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMAX%20Shopping_Product_High%20Performers&utm_term=&productid=16128317&utm_content=&utm_id=go_cmp-19549529751_adg-_ad-__dev-c_ext-_prd-16128317_sig-CjwKCAjwysipBhBXEiwApJOcu2EvPH7vGSeenPXfsRVBm2takXOF7F32n3XnR9Q6WI3hAPAprKYREBoC79AQAvD_BwE&gclid=CjwKCAjwysipBhBXEiwApJOcu2EvPH7vGSeenPXfsRVBm2takXOF7F32n3XnR9Q6WI3hAPAprKYREBoC79AQAvD_BwE)|198| "16,000 ~ 70,000 uplink packets."| "...öppen larmfunktion, användaren kan ställa in denna funktion så att enheten skickar larm om dörren har varit öppen under en viss tid." |
 |[EMS Mini LoRa Sensor ](https://www.dustinhome.se/product/5011208976/ems-mini-lora-sensor?gclid=CjwKCAjwysipBhBXEiwApJOcuy7WcbXjWAhYEBPRg41w_hwoTI9LbAZG1rzgJtztjqtwS2-fJdGFXRoC7Z4QAvD_BwE&tab=specification)|895|"Upp till 10 år"|Sensorn reagerar när dörren är öppen ungefär 10 mm men kan påverkas av dörrens material (metall minskar räckvidden)|
 
+### Förslag på dörrsensor som bara är larm
+Denna typ av sensorer faller inte in under IOT, men det kanske är vad som bäst skulle fylla de behov som finns i bageriet. 
+|Länk|pris|Batteritid|Användbar funktion|
+|----|----|----------|------------------|
+|[Fridggi](https://www.amazon.com/FRIDGGI-Freezer-Fridge-Delays-120sec/dp/B08B4H3LM8/ref=sr_1_1_sspa?keywords=Refrigerator%2BDoor%2BAlarm&qid=1698155334&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)|22.64$|1 år|Olika typer av larm kan ställas in. Exempel 1: Mjukt larm efter en minut, påminnelse efter 2. Exempel 2 minuter: Ihållande larm efter 3 minuter.|
+|[WSDCAM](https://www.amazon.com/Freezer-Seconds-Adjustable-Wireless-Refrigerator/dp/B08LMTF8GM/ref=sr_1_4?keywords=Refrigerator+Door+Alarm&qid=1698155334&sr=8-4)|22.99$|Ingen information|Larmar om dörren varit öppen i 3/15/30 eller 60 sekunder.|
+|[Freezer Door Alarm](https://www.amazon.com/Freezer-Window-Reminder-Office-School/dp/B0BX9FZ6CB/ref=sr_1_6?keywords=Refrigerator%2BDoor%2BAlarm&qid=1698155334&sr=8-6&th=1)|16.99 $|ingen information|Kan ställas in att larma efter 30 sekunder. Påminelse var 20e sekund. Slutar efter en timme, eller när dörren stängs|
+
+
+
+
 ### Förslag på LORA gateways 
 
 Gatewayens uppgift är att ta emot data från sensorerna och skicka den vidare. 
