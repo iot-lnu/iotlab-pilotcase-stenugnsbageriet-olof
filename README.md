@@ -9,11 +9,11 @@ Målet är att hålla koll på temperatur i kylutrymmen. Få reda på om dörren
 
 För det här projektet utforskas LORA Zigbee och WiFi som alternativ till att sckicka datan. Aspekter som är viktiga för bageriet är att det ska vara relativt billigt att köp in det som behövs. Det ska vara lätt att underhålla. Det ska hälst inte bövas att man sätter upp sig på några nya abonemang. För att lösningen ska funka krävs det också att signalen tar sig igenom de tjocka väggarna på kyl och frysutrymmet.
 
-|Teknologi|Inledande kostnad|Kräver abonemang|Underhållsbehov|
-|-|-|-|-|
-|LORA||||
-|Zigbee||||
-|WiFi||||
+|Teknologi|Inledande kostnad|Kräver abonemang|Underhållsbehov|Räckvidd|
+|-|-|-|-|-|
+|LORA|Hög|Inte nödvändigtvis|Väldigt lång Btteritid|Lång|
+|Zigbee|Medel|Inte nödvändigtvis|Lång Batteritid|Kort|
+|WiFi|Låg|Inte Utöver befintligt WiFi|Eventuellt kortare batteritid|Kort|
 ### Förslag på dörrsensor som bara är larm
 Denna typ av sensorer faller inte in under IOT, men det kanske är vad som bäst skulle fylla de behov som finns i bageriet. 
 |Länk|pris|Batteritid|Användbar funktion|
