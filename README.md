@@ -12,11 +12,20 @@ För det här projektet utforskas LORA Zigbee och WiFi som alternativ till att s
 |Teknologi|Inledande kostnad|Kräver abonemang|Underhållsbehov|Räckvidd|
 |-|-|-|-|-|
 |LORA|Hög|Inte nödvändigtvis|Väldigt lång Btteritid|Lång|
-|Zigbee|Medel|Inte nödvändigtvis|Lång Batteritid|Kort|
+|Zigbee|Medel|Inte nödvändigtvis|Lång Batteritid|Medel|
 |WiFi|Låg|Inte Utöver befintligt WiFi|Eventuellt kortare batteritid|Kort|
 
 ### Disskusion med Anna
-Zigbee verkar kul för att man kan bygga vidare på det och inkludera saker som smarta lampor. Ikea känns som ett bra företag att köpa hubb ifrån. Wifi är värt att fortsätta undersöka som alternativ till Zigbee. 
+Zigbee verkar kul för att man kan bygga vidare på det och inkludera saker som smarta lampor. Ikea känns som ett bra företag att köpa hubb ifrån. Wifi är värt att fortsätta undersöka som alternativ till Zigbee.
+
+### Sensorpaket
+
+Följande är förslag på upsättningar av sensorer som kan köpas tillsammans i nulget räknar vi med att köpa 4 av varje sensor.
+
+|Gateway| Sensor | antal | totalt pris | Teknologi |
+|-|-|-|-|-|
+||
+
 
 ### Förslag på dörrsensor som bara är larm
 Denna typ av sensorer faller inte in under IOT, men det kanske är vad som bäst skulle fylla de behov som finns i bageriet. 
