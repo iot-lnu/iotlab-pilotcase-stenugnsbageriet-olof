@@ -9,23 +9,27 @@ Målet är att hålla koll på temperatur i kylutrymmen. Få reda på om dörren
 
 För det här projektet utforskas LORA Zigbee och WiFi som alternativ till att sckicka datan. Aspekter som är viktiga för bageriet är att det ska vara relativt billigt att köp in det som behövs. Det ska vara lätt att underhålla. Det ska hälst inte bövas att man sätter upp sig på några nya abonemang. För att lösningen ska funka krävs det också att signalen tar sig igenom de tjocka väggarna på kyl och frysutrymmet.
 
-|Teknologi|Inledande kostnad|Kräver abonemang|Underhållsbehov|Räckvidd|
+|Teknologi|Inledande kostnad|Kräver abonemang|Batteritid|Räckvidd innomhus|
 |-|-|-|-|-|
-|LORA|Hög|Inte nödvändigtvis|Väldigt lång Btteritid|Lång|
-|Zigbee|Medel|Inte nödvändigtvis|Lång Batteritid|Medel|
-|WiFi|Låg|Inte Utöver befintligt WiFi|Eventuellt kortare batteritid|Kort|
+|LORA|Hög|Inte nödvändigtvis|Väldigt lång |10-15 km|
+|Zigbee|Låg|Inte nödvändigtvis|Lång|10-20 m|
+|WiFi|Låg|Inte Utöver befintligt WiFi|Eventuellt kortare|upp till 50 m|
 
 ### Disskusion med Anna
 Zigbee verkar kul för att man kan bygga vidare på det och inkludera saker som smarta lampor. Ikea känns som ett bra företag att köpa hubb ifrån. Wifi är värt att fortsätta undersöka som alternativ till Zigbee.
 
-### Sensorpaket
+### Sensorförslag
 
-Följande är förslag på upsättningar av sensorer som kan köpas tillsammans i nulget räknar vi med att köpa 4 av varje sensor.
+Här följer 2 förslag på upsättningar av sensorer som kan köpas tillsammans.
 
-|Gateway| Sensor | antal | totalt pris | Teknologi |
+|Gateway| Sensor | antal | totalt pris |
 |-|-|-|-|-|
 ||
 
+
+|Gateway| Sensor | antal | totalt pris |
+|-|-|-|-|-|
+||
 
 ### Förslag på dörrsensor som bara är larm
 Denna typ av sensorer faller inte in under IOT, men det kanske är vad som bäst skulle fylla de behov som finns i bageriet. 

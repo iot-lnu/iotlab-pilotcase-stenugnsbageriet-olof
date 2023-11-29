@@ -21,3 +21,5 @@ Zigbee sensorer behöver en mottagare som skickar datan vidare till tillexempel 
 |[Athom Homey Bridge](https://tibber.com/se/store/produkt/homey-bridge?variant=279223&utm_source=googleadwords_int&utm_medium=cpc&utm_content=15766743776_131821671076_572751328220&utm_id=g_&keyword=&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBgmwQPV__jx4MSacC8S01YdWJ429C6T0QspQTvGiAQsI_2kEkMMU5BoCruYQAvD_BwE)|775||
 |[Sonoff Zigbee Bridge Pro](https://www.styrahem.se/p/801?gad=1&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBngUYAtkne7XhMn80fm9SzPPqh-1RDW_YGCAjGdWlRK6fb-ZH6YDehoCMzMQAvD_BwE)|299||
 |||
+
+## Test av olika zigbee enheter
