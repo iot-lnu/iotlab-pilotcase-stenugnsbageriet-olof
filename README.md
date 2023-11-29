@@ -22,13 +22,14 @@ Zigbee verkar kul för att man kan bygga vidare på det och inkludera saker som 
 
 Här följer 2 förslag på upsättningar av sensorer som kan köpas tillsammans.
 
+#### Förslag 1
 |Gateway| Sensor | antal | totalt pris |
-|-|-|-|-|-|
+|-|-|-|-|
 ||
 
-
+#### Förslag 2
 |Gateway| Sensor | antal | totalt pris |
-|-|-|-|-|-|
+|-|-|-|-|
 ||
 
 ### Förslag på dörrsensor som bara är larm
