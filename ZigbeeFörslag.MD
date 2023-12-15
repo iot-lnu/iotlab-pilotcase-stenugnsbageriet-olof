@@ -23,3 +23,4 @@ Zigbee sensorer behöver en mottagare som skickar datan vidare till tillexempel 
 |||
 
 ## Test av olika zigbee enheter
+Test
