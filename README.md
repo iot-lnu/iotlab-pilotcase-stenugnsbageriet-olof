@@ -49,7 +49,7 @@ Den valda teknologin är Zigbee. Här följer förslag på sensorer och en gatew
 
 ### Gateway
 
-För att kunna använda Zigbee behövs en gateway. Följande gateway föreslås.
+För att kunna använda Zigbee behövs en gateway. Följande gateway föreslås. Den har även en inbyggd buzzer som kan användas för att skicka ljudsignaler vid händelser, till exempel när en dörr står öppen. Volymen kan justeras.
 
 | Gateway                                                                                                              | Antal | Pris   |
 | -------------------------------------------------------------------------------------------------------------------- | ----- | ------ |
